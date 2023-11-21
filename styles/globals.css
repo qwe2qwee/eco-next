@@ -764,4 +764,11 @@ span.text-red {
     height: 41%;
     top: 33%;
   }
+
+  .cart-container {
+  
+    width: 100%;
+    padding: 1px;
+  }
+
 }
