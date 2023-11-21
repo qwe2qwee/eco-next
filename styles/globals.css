@@ -667,10 +667,11 @@ span.text-red {
   }
   .product-detail-container {
     flex-wrap: wrap;
+    justify-content: space-around;
   }
   .product-detail-container .product-detail-image {
-    width: 350px;
-    height: 350px;
+    width: 310px;
+    height: 310px;
   }
   .cart-container {
     width: 415px;
